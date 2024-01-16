@@ -26,7 +26,7 @@ npm start
 ```
 ## Usage 
 ![image](https://github.com/nofox1/E-Commerce/assets/136627240/cdca236d-01b3-4a28-9f7e-a7da42bb6671)
-Image above shows you all features to this data. As you can see on the left you can GET, POST, PUT(update), and DELETE. 
+Image above shows you all features to this database. As you can see on the left you can GET, POST, PUT(update), and DELETE. 
 ## [Walk-Through Video](https://drive.google.com/file/d/15oZeS1_P2P7q781gR09qYsVBQ4CRu6ZI/view)
 
 ## Credits 
