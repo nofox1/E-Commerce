@@ -15,7 +15,7 @@ This E-Commerce project is mainly for the back end. Works to create a database t
 - dotenv
 
 ## Intallation 
-Need to clone to local machine. Then navigate to where the file is located and then open your CLI(console).
+Clone to local machine. Then navigate to where the file is located and then open your CLI(console).
 Then follow these steps:
 ```
 mysql -u root -p
